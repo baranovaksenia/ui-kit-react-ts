@@ -17,6 +17,6 @@
     "jsx": "react-jsx",
     "baseUrl": "src"
   },
-  "include": ["src", "**/*.ts", "**/*.tsx"],
+  "include": ["src", "**/*.ts", "**/*.tsx", ".storybook/stories"],
   "exclude": ["node_modules"]
 }
